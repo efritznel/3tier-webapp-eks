@@ -712,42 +712,42 @@ filebeatConfig:
 upgrade filebeat helm chart and check in kibana’s UI if the app logs are streaming.
 
 ## **Congratulations!** <br/>
-![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/Website.GIF)
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/Website.GI)
 
 ---
 
 ### 📌 Architecture Diagram
-![Diagram](./public/diagram-export.JPG)
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/Microservices.gif)
 
 ---
 
-### 📌 ArgoCD
-![ArgoCD](./public/Argocd.JPG)
+### 📌 ArgoCD Login
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/argocd.GIF)
 
 ---
 
-### 📌 Capture
-![Capture](./public/Capture.JPG)
+### 📌 ArgoCD Deployment
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/argocd-deployment.GIF)
 
 ---
 
 ### 📌 AlertManager
-![AlertManager](./public/alertManager.JPG)
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/Alertmanager%20login.GIF)
 
+
+---
+
+### 📌 Grafana login
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/grafana%20login.GIF)
 
 ---
 
 ### 📌 Grafana Dashboard
-![Grafana](./public/grafana.JPG)
-
----
-
-### 📌 Kibana Logs View
-![Kibana](./public/kibana.JPG)
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/grafana%20dashboard.GIF)
 
 ---
 
 ### 📌 Prometheus Dashboard
-![Prometheus](./public/prometheus.JPG)
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/prometheus%20login.GIF)
 
 ### WO! ooo!!! ...Your project is now deployed.
