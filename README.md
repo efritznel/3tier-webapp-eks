@@ -712,7 +712,7 @@ filebeatConfig:
 upgrade filebeat helm chart and check in kibana’s UI if the app logs are streaming.
 
 ## **Congratulations!** <br/>
-![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/Website.GI)
+![Project Image](https://github.com/efritznel/3tier-webapp-eks/blob/main/images/Website.GIF)
 
 ---
 
