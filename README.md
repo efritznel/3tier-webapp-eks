@@ -215,7 +215,7 @@ sudo systemctl status jenkins
 > - **Add a New Shared Library:** 
 > - **Name:** Shared
 > - **Default Version:** main
-> - **Project Repository URL:** `https://github.com/<your user-name/jenkins-shared-libraries`.
+> - **Project Repository URL:** `https://github.com/efritznel/jenkins-shared-libraries`.
 >
 > [Notes:] 
 > Make sure the repo contains a proper directory structure eq: vars/<br/>
@@ -229,7 +229,7 @@ sudo systemctl status jenkins
 > > In **General**<br/>
 > > - **Description:** EasyShop<br/>
 > > - **Check the box:** `GitHub project`<br/>
-> > - **GitHub Repo URL:** `https://github.com/<your user-name/tws-e-commerce-app`<br/>
+> > - **GitHub Repo URL:** `https://github.com/efritznel/3tier-webapp-eks`<br/>
 >
 > > In **Trigger**<br/>
 > > - **Check the box:**`GitHub hook trigger for GITScm polling`<br/>
@@ -237,7 +237,7 @@ sudo systemctl status jenkins
 > > In **Pipeline**<br/>
 > > - **Definition:** `Pipeline script from SCM`<br/>
 > > - **SCM:** `Git`<br/>
-> > - **Repository URL:** `https://github.com/<your user-name/tws-e-commerce-app`<br/>
+> > - **Repository URL:** `https://github.com/efritznel/3tier-webapp-eks`<br/>
 > > - **Credentials:** `github-credentials`<br/>
 > > - **Branch:** master<br/>
 > > - **Script Path:** `Jenkinsfile`<br/>
