@@ -136,7 +136,7 @@ terraform apply
 7. **Access Your EC2 Instance;** <br/>
 After deployment, grab the public IP of your EC2 instance from the output or AWS Console, then connect using SSH:
 ```bash
-ssh -i terra-key ubuntu@<public-ip>
+ssh -i new-keypair ubuntu@<public-ip>
 ```
 8. **Update your kubeconfig:**
 wherever you want to access your eks wheather it is yur local machine or bastion server this command will help you to interact with your eks.
