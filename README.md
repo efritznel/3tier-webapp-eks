@@ -107,13 +107,13 @@ cd terraform
 2. **Generate SSH Key Pair:**
 Create a new SSH key to access your EC2 instance:
 ```bash
-ssh-keygen -f terra-key
+ssh-keygen -f new-keypair
 ```
 This will prompt you to create a new key file named terra-key.
 
 3. **Private key permission:** Change your private key permission:
 ```bash
-chmod 400 terra-key
+chmod 400 new-keypair
 ```
 
 4. **Initialize Terraform:**
